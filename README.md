@@ -1,13 +1,15 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 08 - Socket.io
 
-### Author: Student/Group Name
+### Author: Michael George, Code 401d28
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
+[![Build Status](https://travis-ci.com/michaelageorge/08-socket.io.svg?branch=master)](https://travis-ci.com/michaelageorge/08-socket.io)
+
+* [repo](https://github.com/michaelageorge/08-socket.io)
+* [travis](https://travis-ci.com/michaelageorge/08-socket.io)
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
 
