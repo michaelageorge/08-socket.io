@@ -42,3 +42,6 @@ Usage Notes or examples
 
 #### UML
 Link to an image of the UML for your application and response to events
+
+### Help and Citations
+John's server demo helped me get a server up and running.
