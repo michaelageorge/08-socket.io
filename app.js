@@ -2,11 +2,9 @@
 
 const io = require('socket.io-client');
 const socket = io.connect('http://localhost:3000');
-const faker = require('faker');
 
-setInterval( () => {
-  socket.emit('speak', faker.hacker.phrase());
-}, 750);
+// Command Line Arguments
+let file = process.argv.slice(2).shift();
 
-
-
+// Emit Events to Socket
+socket.emit('file', file);
